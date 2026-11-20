@@ -59,7 +59,8 @@ Home-Decor-Shop/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kunalshinde2109/Home-Decor-Shop.git
+git clone  https://github.com/shekharshelke171-eng/Home-Decor-Shop.git
+
 ```
 
 ### 2. Navigate to Project Folder
