@@ -106,12 +106,14 @@ http://127.0.0.1:8000/
 
 ## 👨‍💻 Developer
 
-**Kunal Shinde**
+👨‍💻 Developer
+Shekhar Shelke
 
-GitHub: https://github.com/kunalshinde2109
+GitHub: https://github.com/shekharshelke171-eng
 
-Portfolio: https://kunalshinde2109.github.io/My-Portfolio/
+Portfolio: https://portfolio-y7l1.vercel.app/
 
+LinkedIn: https://www.linkedin.com/in/shekhar-shelke-6936263a6/
 ## 📌 Project Status
 
 Developed as a Django-based e-commerce project. Deployment and further improvements are in progress.
