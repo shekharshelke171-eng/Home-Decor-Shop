@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-4*aqga5k-ta6=&h2##@9gtx@1+=w=d%afps0yd)nd*#v&0+-v9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "localhost",
+    "127.0.0.1",
+    "home-decor-shop-crv5-qghu5ozck-data-pulse3.vercel.app",
+]
 
 
 # Application definition
