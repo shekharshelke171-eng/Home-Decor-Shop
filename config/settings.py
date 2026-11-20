@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     "localhost",
     "127.0.0.1",
-    "home-decor-shop-crv5-qghu5ozck-data-pulse3.vercel.app",
+    ".vercel.app",
 ]
 
 
